@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hello
 
-<!--
-**honokachan1992/honokachan1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I'm a software developer that mostly develops software for iOS and macOS. I from time to time do web-dev stuff though. 
 
-Here are some ideas to get you started:
+## 💬 Programming languages I mostly write software in
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Swift
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Objective-C
+- ✅ ⁠ ⁢⁣⁡⁠ ⁢⁣⁡Python 
+
+## 📮 How to get in contact with me
+
+- Twitter [@honokachan1992](https://twitter.com/honokachan1992)
+- Discord **🌸 玉来#5002**
+- Email [honokachan1992@icloud.com](mailto:honokachan1992@icloud.com)
+
+## ❗Last but no least
+
+Thank you for reading!
